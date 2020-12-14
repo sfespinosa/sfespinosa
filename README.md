@@ -1,5 +1,5 @@
 ## Hi there! My name is Scott! 👋
-I'm a Software Engineer based in the San Francisco Bay Area. Graduated from Flatiron School after 8+ years in the healthcare/pharmaceutical industry.
+I'm a Software Engineer based in the San Francisco Bay Area. Graduated from Flatiron School after 8+ years in the healthcare/pharmaceutical industry. I love to travel, play video games, and anything related to the [MCU](https://www.marvel.com/movies).
 
 - 😄 Pronouns: he/him/his
 - 🤔 I’m looking for opportunities as a Full-Stack Software Engineer
