@@ -4,7 +4,7 @@ I'm a Software Engineer based in the San Francisco Bay Area. Graduated from Flat
 - 😄 Pronouns: he/him/his
 - 🤔 I’m looking for opportunities as a Full-Stack Software Engineer
 - 🔭 I’m currently working on refining my JavaScript skills through [#JavaScript30](https://javascript30.com/)
-- 🌱 I’m currently learning data structures & algorithms
+- 🌱 I’m currently learning the MEVN stack
 - 👯 I’m looking to collaborate on new projects, pair-program, or practice interview questions
 - 💬 Ask me about finding the Impostor in Among Us or your favorite EDM song
 - ⚡ Fun fact: I went to 50+ concerts in a single year
