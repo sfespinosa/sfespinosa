@@ -7,6 +7,6 @@ I'm a Software Engineer based in the San Francisco Bay Area. Graduated from Flat
 - 🌱 I’m currently learning the MEVN (MongoDB, Express.js, VueJS, Node.js) stack
 - 👯 I’m looking to collaborate on new projects, pair-program, or practice interview questions
 - 💬 Ask me about finding the Impostor in Among Us or your favorite EDM song
-- 🎮 Current Player: Spider-Man: Miles Morales on PS5
+- 🎮 Current Playing: STAR WARS Jedi - Fallen Order on PS5
 - ⚡ Fun fact: I climbed [Half Dome](https://www.nps.gov/yose/planyourvisit/halfdome.htm) in Yosemite in the 8th grade
 - 📫 How to reach me: [Email](mailto:scottjames.espinosa@gmail.com) | [LinkedIn](https://www.linkedin.com/in/scottespinosa/) | [Portfolio](https://scottespinosa.com)
