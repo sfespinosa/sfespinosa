@@ -3,7 +3,7 @@ I'm a Software Engineer based in the San Francisco Bay Area. Graduated from Flat
 
 - 😄  Pronouns: he/him/his
 - 🔭  I’m currently working on my algorithm and data structure skills
-- 🌱  I’m currently learning MEN of MERN (MongoDB, Express.js, React, Node.js) stack
+- 🌱  I’m currently learning the MERN (MongoDB, Express.js, React, Node.js) stack
 - 👯  I’m looking to collaborate on new projects for any hackathons or just to chat about coding in general
 - 💬  Ask me about finding the Impostor in Among Us or my favorite EDM song
 - 🎮  Current Playing: Marvel's Avengers on PS5
