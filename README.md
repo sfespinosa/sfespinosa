@@ -6,7 +6,7 @@ I'm a Software Engineer based in the San Francisco Bay Area. Graduated from Flat
 - 🌱  I’m currently learning the MERN (MongoDB, Express.js, React, Node.js) stack & Typescript
 - 👯  I’m looking to collaborate on new projects for any hackathons or just to chat about coding in general
 - 💬  Ask me about finding the Impostor in Among Us or my favorite EDM song
-- 🎮  Current Playing: It Takes Two on PS5
+- 🎮  Current Playing: Knockout City on PS5/Nintendo Switch
 - ⚡  Fun fact: I climbed [Half Dome](https://www.nps.gov/yose/planyourvisit/halfdome.htm) in Yosemite in the 8th grade
 - 📫  How to reach me: [Email](mailto:scottjames.espinosa@gmail.com) | [LinkedIn](https://www.linkedin.com/in/scottespinosa/) | [Portfolio](https://scottespinosa.com) | [Medium](https://scottespinosa.medium.com/)
 
