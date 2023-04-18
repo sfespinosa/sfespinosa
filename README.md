@@ -1,5 +1,5 @@
 ## Hi there! My name is Scott! 👋
-I'm a Software Engineer based in the San Francisco Bay Area. I have 2+ . I've learned to love to code so I can help build technology that aims to help people. I also love to travel, play video games, and follow anything related to the [MCU](https://www.marvel.com/movies).
+I'm a Software Engineer based in the San Francisco Bay Area. I have 2+ years working as a Front-End/Full-Stack Software Engineer and currently learning to become a Site Reliability Engineer. I've learned to love to code so I can help build technology that aims to help people. I also love to travel, play video games, and follow anything related to the [MCU](https://www.marvel.com/movies).
 
 - 😄  Pronouns: he/him/his
 - 🔭  I work as a Cloud/Full-Stack Engineer at Deloitte Consulting, LLP
