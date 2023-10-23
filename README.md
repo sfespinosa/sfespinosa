@@ -1,12 +1,12 @@
 ## Hi there! My name is Scott! 👋
-I'm a Software Engineer based in the San Francisco Bay Area. I have 2+ years working as a Front-End/Full-Stack Software Engineer and currently learning to become a Site Reliability Engineer. I've learned to love to code so I can help build technology that aims to help people. I also love to travel, play video games, and follow anything related to the [MCU](https://www.marvel.com/movies).
+I'm a Software Engineer based in the San Francisco Bay Area. I have 2+ years working as a Front-End/Full-Stack Software Engineer. I've learned to love to code so I can help build technology that aims to help people. I also love to travel, play video games, and follow anything related to the [MCU](https://www.marvel.com/movies).
 
 - 😄  Pronouns: he/him/his
-- 🔭  I work as a Cloud/Full-Stack Engineer at Deloitte Consulting, LLP
+- 🔭  I work as a Software Engineer at Deloitte Consulting, LLP
 - 🌱  I’m currently enhancing my skills in AWS and Golang
 - 👯  I’m looking to collaborate on new projects for any hackathons or just to chat about coding in general
 - 💬  Ask me about today's Wordle/Quordle or the latest episode of Podcrushed
-- 🎮  Current Playing: Marvel Snap, Overwatch 2, Jedi: Survivor, & The Legend Of Zelda: Tears of the Kingdom
+- 🎮  Current Playing: Marvel Snap, Spider-Man 2, Overwatch 2, The Legend Of Zelda: Tears of the Kingdom
 - ⚡  Fun fact: I climbed [Half Dome](https://www.nps.gov/yose/planyourvisit/halfdome.htm) in Yosemite in the 8th grade
 - 📫  How to reach me: [Email](mailto:scottjames.espinosa@gmail.com) | [LinkedIn](https://www.linkedin.com/in/scottespinosa/) | [Portfolio](https://scottespinosa.com) | [Medium](https://scottespinosa.medium.com/)
 
